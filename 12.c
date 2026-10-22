@@ -101,6 +101,14 @@ int main()
     return 0;
 }
 
+6
+E->E+T
+E->T
+T->T*F
+T->F
+F->(E)
+F->i
+
 // FIRST Sets:
 // -------------------------
 // FIRST(E) = { ( id }
